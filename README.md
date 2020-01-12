@@ -12,7 +12,7 @@ Consequently, I thought of implementing one of the most iconic games in computer
 You are presented with a board of squares. Some squares contain mines, others don't.
 Prove your strategic skills and quick wits by clearing the board from all the mines.
  
-This game features three levels - Easy, Medium, Hard.\newline 
+This game features three levels - Easy, Medium, Hard. 
 
 Additionally, this game feature basic instructions to know how to play the game.
 
