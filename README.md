@@ -31,7 +31,8 @@ Additionally the classic game never revealed the whole board at the end of the g
 The main aim of my project was to make the GUI of the game more captivating so that it could even gather attention of young kids and they would engage in this strategic game which improves their mental ability.
 
 ## Future Prospects
-I would love to add sounds in the game to make the game more engrossing and captivating.\newline
+I would love to add sounds in the game to make the game more engrossing and captivating.
+
 Also I would want to add a leader-board so that players can keep track of how much they have improved themselves over time by spending more and more time on this strategic brain enhancing game. 
 
 ## Videos and Images
